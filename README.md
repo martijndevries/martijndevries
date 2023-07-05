@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="250"/>
+</div>
+
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mn-devries/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
  <a href="https://scholar.google.com/citations?user=35oZiycAAAAJ&hl=en">
    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/> </a>
-</div>
-
-<div id="badges" align="center>
-
 </div>
 
 ### About Me:

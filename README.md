@@ -12,7 +12,7 @@
 ### About Me:
 
 😄 I'm Martijn de Vries, and I am a Data Scientist and Researcher from San Francisco, currently pursuing a career in Data Science career. <br>
-🔭 Before my move to Data Science, I was an astrophysicist! I worked different topics, such as supermassive black holes, clusters of galaxies, and pulsars. <br>
+🔭 Before my move to Data Science, I was an astrophysicist! I worked on different topics, such as supermassive black holes, clusters of galaxies, and pulsars. <br>
 🇳🇱 I'm originally from the Netherlands, and lived in Amsterdam before I moved to the US. <br>
 👨‍🎓 I got my Ph.D at the University of Amsterdam, and afterwards was a postdoctoral researcher at Stanford <br>
 📫 You can reach me at: martijndevries91@gmail.com, or connect with me on LinkedIn. <br>

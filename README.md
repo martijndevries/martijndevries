@@ -1,9 +1,9 @@
 ### Hi, I'm Martijn
 
-📈 I am a Data Scientist and Researcher from San Francisco, currently pursuing a Data Science career.
-✨ Before my move to Data Science, I was an astrophysicist! I worked different topics, such as supermassive black holes, clusters of galaxies, and pulsars. You can find some of the projects on the page below.
-📫 You can reach me at: martijndevries91@gmail.com, or connect with me on LinkedIn.
-🎮 In my free time, I enjoy hiking, traveling, and videogames!
+📈 I am a Data Scientist and Researcher from San Francisco, currently pursuing a Data Science career. <br>
+✨ Before my move to Data Science, I was an astrophysicist! I worked different topics, such as supermassive black holes, clusters of galaxies, and pulsars. You can find some of the projects on the page below. <br>
+📫 You can reach me at: martijndevries91@gmail.com, or connect with me on LinkedIn. <br>
+🎮 In my free time, I enjoy hiking, traveling, and videogames! <br>
 
 <!--
 **martijndevries/martijndevries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
